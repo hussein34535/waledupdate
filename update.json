@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "windows_url": "https://raw.githubusercontent.com/hussein34535/waledupdate/main/WaledNet_Setup.exe",
-  "android_url": "https://raw.githubusercontent.com/hussein34535/waledupdate/main/app-release.apk",
+  "windows_url": "https://github.com/hussein34535/waledupdate/releases/download/v3.0.0/WaledNet_Setup.exe",
+  "android_url": "https://github.com/hussein34535/waledupdate/releases/download/v3.0.0/walednet.apk",
   "changelog": "إصلاحات وتحديثات جديدة وسيرفرات فائقة السرعة 🚀"
 }
